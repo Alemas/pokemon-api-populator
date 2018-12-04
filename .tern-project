@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "browser"
+  ],
+  "plugins": {
+    "node_modules" : {},
+     "node": {},
+     "modules": {},
+     "requirejs": {},
+     "es_modules": {},
+     "jasmine": {}
+  }
+}
